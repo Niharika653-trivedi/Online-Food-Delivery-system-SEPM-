@@ -80,6 +80,20 @@ The files may include:
 - Software testing and test cases
 - COCOMO cost estimation
 
+ ## 📸 Project Screenshots
+
+### Use Case Diagram
+<img width="555" height="575" alt="image" src="https://github.com/user-attachments/assets/7563855d-db08-4434-833f-7c9f657a843f" />
+
+
+### Activity Diagram
+<img width="525" height="589" alt="image" src="https://github.com/user-attachments/assets/22624643-537f-4356-9b6f-2b14d6cd6f0d" />
+
+
+### Class Diagram
+<img width="945" height="520" alt="image" src="https://github.com/user-attachments/assets/1ee4eba4-39c8-4e18-82fd-0d660f7c3da9" />
+
+
 ## 🎓 Academic Purpose
 
 This project was created as part of college coursework to understand software engineering principles, requirement analysis, system modeling, project planning, and software testing.
